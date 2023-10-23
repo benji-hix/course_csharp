@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\bin\Debug\net6.0\core_game-developer-1.exe
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\bin\Debug\net6.0\core_game-developer-1.deps.json
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\bin\Debug\net6.0\core_game-developer-1.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\bin\Debug\net6.0\core_game-developer-1.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\bin\Debug\net6.0\core_game-developer-1.pdb
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\refint\core_game-developer-1.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.pdb
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\core_game-developer-1.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\core_game-developer-1\obj\Debug\net6.0\ref\core_game-developer-1.dll
