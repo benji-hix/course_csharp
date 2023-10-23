@@ -1,29 +1,13 @@
-﻿
+﻿static string rollUntil(int target) {
+    int count = 0;
+    Random rand = new Random();
 
-List<string> firstName = new List<string>();
-firstName.Add("Julie");
-firstName.Add("Harold");
-firstName.Add("James");
-firstName.Add("Monica");
-List<int> age = new List<int>();
-age.Add(6);
-age.Add(12);
-age.Add(7);
-age.Add(10);
-
-static Dictionary<string,int> GenerateDictionary(List<string> Names, List<int> Numbers)
-{
-    Dictionary<string, int> output = new Dictionary<string, int>();
-
-    for (int i = 0; i < Names.Count; i++) {
-        output.Add(Names[i], Numbers[i]);
+    while (true) {
+        count ++;
+        if (rand.Next(1, 7) == target) {
+            return $"Rolled a {target} after {count} tries";
+        }
     }
-
-    return output;
 }
 
-Dictionary<string, int> result8 = GenerateDictionary(firstName, age);
-
-foreach (KeyValuePair<string, int> entry in result8) {
-    Console.WriteLine($"{entry.Key} - {entry.Value}");
-}
+Console.Write(rollUntil(6));

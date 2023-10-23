@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\bin\Debug\net6.0\optional_puzzles.exe
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\bin\Debug\net6.0\optional_puzzles.deps.json
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\bin\Debug\net6.0\optional_puzzles.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\bin\Debug\net6.0\optional_puzzles.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\bin\Debug\net6.0\optional_puzzles.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\refint\optional_puzzles.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\optional_puzzles.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_puzzles\obj\Debug\net6.0\ref\optional_puzzles.dll
