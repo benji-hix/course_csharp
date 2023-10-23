@@ -1,7 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-int[] array = {1, 2, 3, 4, 5};
-
-for (int i = 0; i < array.Length; i++) {
-    Console.WriteLine(array[i]);
+﻿Random rand = new Random();
+int randomNum = rand.Next(13);
+if(randomNum == 12)
+{
+    Console.WriteLine("Hello");
 }
+

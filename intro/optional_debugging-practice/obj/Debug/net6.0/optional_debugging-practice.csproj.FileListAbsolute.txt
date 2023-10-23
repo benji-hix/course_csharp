@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\bin\Debug\net6.0\optional_debugging-practice.exe
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\bin\Debug\net6.0\optional_debugging-practice.deps.json
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\bin\Debug\net6.0\optional_debugging-practice.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\bin\Debug\net6.0\optional_debugging-practice.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\bin\Debug\net6.0\optional_debugging-practice.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\refint\optional_debugging-practice.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\optional_debugging-practice.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_debugging-practice\obj\Debug\net6.0\ref\optional_debugging-practice.dll
