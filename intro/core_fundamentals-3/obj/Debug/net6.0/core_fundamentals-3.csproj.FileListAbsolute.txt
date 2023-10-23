@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\bin\Debug\net6.0\core_fundamentals-3.exe
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\bin\Debug\net6.0\core_fundamentals-3.deps.json
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\bin\Debug\net6.0\core_fundamentals-3.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\bin\Debug\net6.0\core_fundamentals-3.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\bin\Debug\net6.0\core_fundamentals-3.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\refint\core_fundamentals-3.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\core_fundamentals-3.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\core_fundamentals-3\obj\Debug\net6.0\ref\core_fundamentals-3.dll
