@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\bin\Debug\net6.0\optional_ride-maker.exe
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\bin\Debug\net6.0\optional_ride-maker.deps.json
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\bin\Debug\net6.0\optional_ride-maker.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\bin\Debug\net6.0\optional_ride-maker.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\bin\Debug\net6.0\optional_ride-maker.pdb
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\refint\optional_ride-maker.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.pdb
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\optional_ride-maker.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_ride-maker\obj\Debug\net6.0\ref\optional_ride-maker.dll
