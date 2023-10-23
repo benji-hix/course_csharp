@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Random rand = new Random();
 
-for (int i = 1; i<= 10; i++) {
-    Console.WriteLine(rand.Next(11));
+int[] array = {1, 2, 3, 4, 5};
+
+for (int i = 0; i < array.Length; i++) {
+    Console.WriteLine(array[i]);
 }
