@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj",
+      "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj",
       "projectName": "optional_ride-maker",
-      "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj",
+      "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj",
       "packagesPath": "C:\\Users\\benji\\.nuget\\packages\\",
-      "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\optional_ride-maker\\obj\\",
+      "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\benji\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\bin\Debug\net6.0\optional_fuel-up.exe
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\bin\Debug\net6.0\optional_fuel-up.deps.json
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\bin\Debug\net6.0\optional_fuel-up.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\bin\Debug\net6.0\optional_fuel-up.dll
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\bin\Debug\net6.0\optional_fuel-up.pdb
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.dll
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\refint\optional_fuel-up.dll
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.pdb
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\optional_fuel-up.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_csharp\fundamentals\optional_fuel-up\obj\Debug\net6.0\ref\optional_fuel-up.dll

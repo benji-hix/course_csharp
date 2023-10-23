@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QmInpfmd+O447VpOy4cKFAifAGIXIrhief9NlPlCdiiWpznS2vz5IzvpVxQhYHZqrHIbN4OqeHqQpTj/1bV1+Q==",
+  "dgSpecHash": "RFR/k3tI4GoecI4HnJ3xReJNwOTew2NbbRQPHgtXYYmuCFQTtHum2c19fSGBSfGrZ7I9mQs55pqY2XLU4y60Hw==",
   "success": true,
-  "projectFilePath": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\testing\\testing.csproj",
+  "projectFilePath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\testing\\testing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

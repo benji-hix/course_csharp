@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj": {}
+    "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_fuel-up\\optional_fuel-up.csproj": {}
   },
   "projects": {
-    "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj": {
+    "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_fuel-up\\optional_fuel-up.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj",
-        "projectName": "optional_ride-maker",
-        "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\optional_ride-maker.csproj",
+        "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_fuel-up\\optional_fuel-up.csproj",
+        "projectName": "optional_fuel-up",
+        "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_fuel-up\\optional_fuel-up.csproj",
         "packagesPath": "C:\\Users\\benji\\.nuget\\packages\\",
-        "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_ride-maker\\obj\\",
+        "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\optional_fuel-up\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benji\\AppData\\Roaming\\NuGet\\NuGet.Config"

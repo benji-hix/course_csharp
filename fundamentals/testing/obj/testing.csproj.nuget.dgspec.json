@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\testing\\testing.csproj": {}
+    "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\testing\\testing.csproj": {}
   },
   "projects": {
-    "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\testing\\testing.csproj": {
+    "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\testing\\testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\testing\\testing.csproj",
+        "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\testing\\testing.csproj",
         "projectName": "testing",
-        "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\testing\\testing.csproj",
+        "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\testing\\testing.csproj",
         "packagesPath": "C:\\Users\\benji\\.nuget\\packages\\",
-        "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\testing\\obj\\",
+        "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\testing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benji\\AppData\\Roaming\\NuGet\\NuGet.Config"
