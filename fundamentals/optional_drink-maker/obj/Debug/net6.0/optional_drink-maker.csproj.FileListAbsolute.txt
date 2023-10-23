@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\bin\Debug\net6.0\optional_drink-maker.exe
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\bin\Debug\net6.0\optional_drink-maker.deps.json
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\bin\Debug\net6.0\optional_drink-maker.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\bin\Debug\net6.0\optional_drink-maker.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\bin\Debug\net6.0\optional_drink-maker.pdb
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\refint\optional_drink-maker.dll
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.pdb
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\optional_drink-maker.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\fundamentals\optional_drink-maker\obj\Debug\net6.0\ref\optional_drink-maker.dll
