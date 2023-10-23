@@ -1,0 +1,7 @@
+λ dotnet --version
+6.0.415
+
+λ dotnet new console -o helloWorld
+
+λ dotnet run
+Hello, World!
