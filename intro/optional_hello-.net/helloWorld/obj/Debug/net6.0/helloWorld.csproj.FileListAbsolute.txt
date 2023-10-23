@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\bin\Debug\net6.0\helloWorld.exe
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\bin\Debug\net6.0\helloWorld.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\refint\helloWorld.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\optional_hello-.net\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll

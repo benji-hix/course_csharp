@@ -1,0 +1,15 @@
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\bin\Debug\net6.0\FirstCSharp.exe
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\bin\Debug\net6.0\FirstCSharp.deps.json
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\bin\Debug\net6.0\FirstCSharp.runtimeconfig.json
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\bin\Debug\net6.0\FirstCSharp.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\bin\Debug\net6.0\FirstCSharp.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.AssemblyReference.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfoInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfo.cs
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.CoreCompileInputs.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\refint\FirstCSharp.dll
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.pdb
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\FirstCSharp.genruntimeconfig.cache
+D:\benji\Documents\coding-dojo\course_c#\intro\FirstCSharp\obj\Debug\net6.0\ref\FirstCSharp.dll
