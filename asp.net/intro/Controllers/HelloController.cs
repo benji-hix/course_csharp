@@ -3,10 +3,10 @@ namespace intro.Controllers;
 
 public class HelloController : Controller //* inheritance
 {
-    [HttpGet("hello/{name}")]
-    public string Index(string name)
+    [HttpGet("")]
+    public ViewResult Index()
     {
-        return $"Hello {name}!";
+        return View();
     }
 
     [HttpPost("submit")]
