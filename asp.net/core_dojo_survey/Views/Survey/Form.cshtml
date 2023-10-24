@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dojo Survey</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="view-main">
+
+        <div class="container w25 h-content br1 br-medium-1 m-t3 m-center-h p2">
+            <form class="form g2" action="submit-form" method="post">
+
+            <label for="FormName" class="input">
+                <span>Your Name:</span>
+                <input class="w10" type="text" name="FormName">
+            </label>
+            <label for="FormLocation" class="input">
+                <span>Dojo Location:</span>
+                <select class="w10" name="FormLocation">
+                    <option value="Seattle">Seattle</option>
+                    <option value="Los Angeles">Los Angeles</option>
+                    <option value="New York">New York</option>
+                </select>
+            </label>
+            <label for="FormLanguage" class="input">
+                <span>Favorite Language:</span>
+                <select class="w10" name="FormLanguage">
+                    <option value="Python">Python</option>
+                    <option value="JavaScript">JavaScript</option>
+                    <option value="C#">C#</option>
+                </select>
+            </label>
+            <label for="FormComment" class="input v a-start">
+                <span>Comment (optional):</span>
+                <textarea name="FormComment" class="h5"></textarea>
+            </label>
+            <input type="submit" class="button w-content" value="Submit">
+
+            </form>
+        </div>
+
+    </div>
+</body>
+</html>
