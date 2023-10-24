@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown</title>
+    <link rel="stylesheet" href="~/css/style.css"/>
+</head>
+<body>
+    <div class="view-main">
+
+        <div class="container flex g3 j-center m-center-h">
+            <div class="container h10 w15 br1 br-medium-1 flex v a-center p-o5">
+                <h1 class="m-b0">Start Time</h1>
+                <h2 class="m-b0">@DateTime.Now.ToString("MMM, d yyyy")</h2>
+                <h2>@DateTime.Now.ToString("h:mm tt")</h2>
+            </div>
+            <div class="container h10 w15 br1 br-medium-1 flex v a-center p-o5">
+                <h1 class="m-b0">End Time</h1>
+                <h2 class="m-b0">@ViewBag.EndDate.ToString("MMM, d yyyy")</h2>
+                <h2>@ViewBag.EndDate.ToString("h:mm tt")</h2>
+            </div>
+
+        </div>
+
+        <div class="container flex v j-center m-center-h">
+            <h1>Time Remaining</h1>
+            <h3><span>@ViewBag.TimeDiff.Days</span> Days, <span>@ViewBag.TimeDiff.Hours</span> Hours,
+            and <span>@ViewBag.TimeDiff.Minutes</span> Minutes</h3>
+        </div>
+
+    </div>
+</body>
+</html>
