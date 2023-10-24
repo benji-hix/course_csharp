@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\core_game-developer-2\\core_game-developer-2.csproj",
+      "projectUniqueName": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\core_game-developer-2\\core_game-developer-2.csproj",
       "projectName": "core_game-developer-2",
-      "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\core_game-developer-2\\core_game-developer-2.csproj",
+      "projectPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\core_game-developer-2\\core_game-developer-2.csproj",
       "packagesPath": "C:\\Users\\benji\\.nuget\\packages\\",
-      "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_c#\\fundamentals\\core_game-developer-2\\obj\\",
+      "outputPath": "D:\\benji\\Documents\\coding-dojo\\course_csharp\\fundamentals\\core_game-developer-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\benji\\AppData\\Roaming\\NuGet\\NuGet.Config"
