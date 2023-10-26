@@ -1,0 +1,39 @@
+@{
+    ViewData["Title"] = "Form";
+}
+@model Survey
+<div class="container w25 h-content br1 br-medium-1 m-t3 m-center-h p2">
+    <form class="form g2" action="submit-form" method="post">
+
+    <label class="input" asp-for="Name">
+        <span>Your Name:</span>
+        <input class="w10" asp-for="Name">
+    </label>
+    <span asp-validation-for="Name"></span>
+    <label class="input" asp-for="Location">
+        <span>Dojo Location:</span>
+        <select class="w10" asp-for="Location">
+            <option value="Seattle">Seattle</option>
+            <option value="Los Angeles">Los Angeles</option>
+            <option value="New York">New York</option>
+        </select>
+        <span asp-validation-for="Location"></span>
+    </label>
+    <label class="input" asp-for="Language">
+        <span>Favorite Language:</span>
+        <select class="w10" asp-for="Language">
+            <option value="Python">Python</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="C#">C#</option>
+        </select>
+        <span asp-validation-for="Language"></span>
+    </label>
+    <label class="input v a-start" asp-for="Comment">
+        <span>Comment (optional):</span>
+        <textarea class="h5" asp-for="Comment"></textarea>
+    </label>
+    <span asp-validation-for="Comment"></span>
+    <input type="submit" class="button w-content" value="Submit">
+
+    </form>
+</div>
