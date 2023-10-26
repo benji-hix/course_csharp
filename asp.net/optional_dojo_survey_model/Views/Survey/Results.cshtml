@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Dojo Survey";
+}
+@model Survey
+<div class="container w25 h-content br1 br-medium-1 m-t3 m-center-h p2">
+    <h1>Submitted Info</h1>
+    <div class="container w-max flex j-between">
+        <p>Name:</p>
+        <p>@Model.Name</p>
+    </div>
+    <div class="container w-max flex j-between">
+        <p>Dojo Location:</p>
+        <p>@Model.Location</p>
+    </div>
+    <div class="container w-max flex j-between">
+        <p>Favorite Language:</p>
+        <p>@Model.Language</p>
+    </div>
+    <div class="container w-max flex j-between">
+        <p>Comment:</p>
+        @{
+            if (Model.Comment == "")
+            {
+                <p style="color:grey">No coment</p>
+            }
+            else
+            {
+                <p>@Model.Comment</p>
+            }
+        }
+    </div>
+    <a class="button-anchor" href="/survey">Go Back</a>
+</div>
