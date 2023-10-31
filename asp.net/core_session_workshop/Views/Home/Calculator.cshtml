@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Calculator";
+}
+<div class="container-nav-bar bg-dark-2">
+    <h1>Welcome @Context.Session.GetString("UserName")!</h1>
+    <a href="logout" class="button-anchor">Log Out</a>
+</div>
+<div class="view-main">
+    <h1 class="m-center-h w-content m-t2">@Context.Session.GetInt32("DisplayNum")</h1>
+    <div class="container flex v a-center m-center-h g0">
+        <div class="container flex p0 m0">
+            <a href="/math/+1" class="button-anchor calc">+ 1</a>
+            <a href="/math/-1" class="button-anchor calc">- 1</a>
+        </div>
+        <div class="container flex p0 m0">
+            <a href="/math/x2" class="button-anchor calc">x 2</a>
+            <a href="/math/+random" class="button-anchor calc">+ random</a>
+        </div>
+    </div>
+</div>
