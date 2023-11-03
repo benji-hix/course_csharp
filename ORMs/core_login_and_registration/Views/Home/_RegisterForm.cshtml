@@ -1,0 +1,39 @@
+@model User
+<div class="container p3 w30 flex v j-start a-start bg-none">
+    <h1 class="m-b2">Register</h1>
+    <form method="post" class="form g3" asp-action="CreateUser">
+        <!-- first name -->
+        <label asp-for="FirstName" class="input">
+            <span class="f-textwrap-none">First Name:</span>
+            <input type="text" asp-for="FirstName" class="w15">
+        </label>
+        <span asp-validation-for="FirstName"></span>
+        <!-- last name -->
+        <label asp-for="LastName" class="input">
+            <span class="f-textwrap-none">Last Name:</span>
+            <input type="text" asp-for="LastName" class="w15">
+        </label>
+        <span asp-validation-for="LastName"></span>
+        <!-- email -->
+        <label asp-for="Email" class="input">
+            <span class="f-textwrap-none">Email:</span>
+            <input type="text" asp-for="Email" class="w15">
+        </label>
+        <span asp-validation-for="Email"></span>
+        <!-- password -->
+        <label asp-for="Password" class="input">
+            <span class="f-textwrap-none">Password:</span>
+            <input type="password" asp-for="Password" class="w15">
+        </label>
+        <span asp-validation-for="Password"></span>
+        <!-- confirm apssword -->
+        <label asp-for="PasswordConfirm" class="input">
+            <span class="f-textwrap-none">Confirm pswd:</span>
+            <input type="password" asp-for="PasswordConfirm" class="w15">
+        </label>
+        <span asp-validation-for="PasswordConfirm"></span>
+        <!--` button -->
+        <input type="submit" class="button a-self-end" value="Submit">
+
+    </form>
+</div>

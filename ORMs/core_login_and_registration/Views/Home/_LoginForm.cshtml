@@ -1,0 +1,21 @@
+@model LoginUser
+
+<div class="container p3 w30 flex v j-start a-start bg-none">
+    <h1 class="m-b2">Log In</h1>
+    <form method="post" asp-action="LoginUser" class="form g3">
+        <!-- email -->
+        <label asp-for="LoginEmail" class="input">
+            <span class="f-textwrap-none">Email:</span>
+            <input type="text" asp-for="LoginEmail" class="w15">
+        </label>
+        <!-- password -->
+        <label asp-for="LoginPassword" class="input">
+            <span class="f-textwrap-none">Password:</span>
+            <input type="password" asp-for="LoginPassword" class="w15">
+        </label>
+        <span asp-validation-for="LoginPassword"></span>
+        <!-- button -->
+        <input type="submit" class="button a-self-end" value="Submit">
+
+    </form>
+</div>

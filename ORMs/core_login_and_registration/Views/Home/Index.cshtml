@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- ------------------------------- nav bar ------------------------------- -->
+<div class="container-nav-bar">
+    <h1 class="m-r-auto">Site title</h1> <!--* CHANGE-->
+</div>
+
+<div class="view-main">
+    <div class="view j-between">
+        <!-- ---------------------------- register form ---------------------------- -->
+    @await Html.PartialAsync("_RegisterForm")
+        <!-- ----------------------------- log in form ----------------------------- -->
+    @await Html.PartialAsync("_LoginForm")
+    </div>
+</div>
