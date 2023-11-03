@@ -1,0 +1,58 @@
+@{
+    ViewData["Title"] = "Read Dish";
+}
+@model Dish;
+
+<div class="view-main m-center-h">
+<h1 class="f-center">Add a new Dish</h1>
+<div class="flex m-center-h j-center a-center">
+    <a href="/dishes">Home</a> | 
+    <a href="/dishes/new">Add a dish</a>
+</div>
+<div class="container m-center-h">
+    <form class="form h" method="post" asp-action="UpdateDish" asp-route-id="@Model.DishID"> 
+
+        <div class="container flex v">
+            <label asp-for="Chef" class="input v a-start">
+                <span>Chef's Name:</span>
+                <input asp-for="Chef">
+                <span asp-asp-validation-for="Chef"></span>
+            </label>
+            <span asp-validation-for="Chef"></span>
+            <label asp-for="Name" class="input v a-start">
+                <span>Dish Name:</span>
+                <input asp-for="Name">
+            </label>
+            <span asp-validation-for="Name"></span>
+            <label asp-for="Calories" class="input v a-start">
+                <span>Calories:</span>
+                <input asp-for="Calories">
+            </label>
+            <span asp-validation-for="Calories"></span>
+        </div>
+
+        <div class="container flex v">
+            <label asp-for="Tastiness" class="input v a-start w-content">
+                <span>Tastiness:</span>
+                <select asp-for="Tastiness">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </label>
+            <span asp-validation-for="Tastiness"></span>
+        </div>
+
+        <div class="container flex v">
+            <label asp-for="Description" class="input v a-start">
+                <span>Description:</span>
+                <textarea asp-for="Description" class="h5"></textarea>
+            </label>
+            <input type="submit" value="submit" class="button">
+            <span asp-validation-for="Description"></span>
+        </div>
+    </form>
+</div>
+</div>

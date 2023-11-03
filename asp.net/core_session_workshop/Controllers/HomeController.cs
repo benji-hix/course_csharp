@@ -22,6 +22,7 @@ public class HomeController : Controller
     [HttpPost("submit-form")]
     public IActionResult ProcessForm(string Name = "")
     {
+         //! check session rather than Name 
          if (Name=="") {
             return View("Index");
          }
@@ -35,7 +36,17 @@ public class HomeController : Controller
     [HttpGet("calculator")]
     public IActionResult Calculator()
     {
+        //! check session here
         return View();
+    }
+
+    [HttpGet("math/{operation}/{mathVal}")]
+    public IActionResult Math(string operation, int mathVal)
+    {
+        int? num = HttpContext.Session.GetInt32("DisplayNum");
+        //* operations 
+        HttpContext.Session.SetInt32("DisplayNum", (int)num);
+        return RedirectToAction("Calculator");
     }
 
     [HttpGet("math/+1")]

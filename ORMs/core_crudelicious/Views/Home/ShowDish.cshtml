@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Read Dish";
+}
+<div class="view-main m-center-h">
+<h1 class="f-center">Dish Name</h1>
+
+
+<div class="flex m-center-h j-center a-center">
+    <a href="/dishes">Home</a>|
+    <a href="/dishes/new">Add a Dish</a>
+</div>
+<div class="container m-center-h m-t2">
+    <p>@ViewBag.Dish.Name by @ViewBag.Dish.Chef</p>
+    <p>@ViewBag.Dish.Description</p>
+    <p>Calores: @ViewBag.Dish.Calories</p>
+    <p>Tastiness: @ViewBag.Dish.Tastiness</p>
+    <div class="container flex">
+        <form method="post" asp-action="DestroyDish" asp-route-id="@ViewBag.Dish.DishID">
+        <input type="submit" class="button" value="Delete">
+        </form>
+        <a class="button-anchor" asp-action="EditDish" asp-route-id="@ViewBag.Dish.DishID">Edit</a>
+    </div>
+</div>
+</div>
