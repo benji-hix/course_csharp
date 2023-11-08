@@ -1,0 +1,28 @@
+@model Product
+
+<div class="container w-25 flex v j-center">
+
+    <form class="form" asp-action="CreateProduct" asp-controller="Product">
+        <h2 class="a-self-center">New Product</h2>
+        <label asp-for="Name" class="input">
+            <span>Name:</span>
+            <input type="text" asp-for="Name">
+        </label>
+        <span asp-validation-for="Name" class="error-text"></span>
+
+        <label asp-for="Description" class="input">
+        <span>Description:</span>
+        <input type="text" asp-for="Description">
+        </label>
+        <span asp-validation-for="Description" class="error-text"></span>
+
+        <label asp-for="Price" class="input">
+        <span>Price:</span>
+        <input type="number" asp-for="Price">
+        </label>
+        <span asp-validation-for="Price" class="error-text"></span>
+
+        <input type="submit" value="Submit" class="button">
+    </form>
+
+</div>

@@ -1,0 +1,17 @@
+@model Category
+
+<div class="container w-25 flex v j-center">
+
+    <form class="form" asp-action="CreateCategory" asp-controller="Category">
+        <h2 class="a-self-center">New Category</h2>
+        <label asp-for="Name" class="input">
+            <span>Name:</span>
+            <input type="text" asp-for="Name">
+        </label>
+        <span asp-validation-for="Name" class="error-text"></span>
+
+
+        <input type="submit" value="Submit" class="button">
+    </form>
+
+</div>

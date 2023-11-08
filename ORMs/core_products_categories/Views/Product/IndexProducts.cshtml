@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "All Products";
+}
+@model MyViewModel
+
+<div class="container-navbar j-center g-075">
+    <p class="f-bold">Products</p>
+    |
+    <a asp-action="IndexCategories" asp-controller="Category">Categories</a>
+</div>
+<div class="view-main medium">
+    <div class="container flex j-center">
+
+        @await Html.PartialAsync("_ProductForm", Model.Product)
+
+        <div class="divider-v h-20 bg-main"></div>
+
+        @await Html.PartialAsync("_ProductList", Model.ProductList)
+
+    </div>
+</div>

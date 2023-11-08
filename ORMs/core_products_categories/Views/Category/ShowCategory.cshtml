@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Show Category";
+}
+@model MyViewModel
+<div class="container-navbar j-center g-075">
+    <a asp-action="IndexProducts" asp-controller="Product">Products</a>
+    |
+    <a asp-action="IndexCategories" asp-controller="Category">Categories</a>
+</div>
+
+<div class="view-main medium">
+    <h1 class="f-center center-h">Category: @Model.Category.Name</h1>
+    <div class="container flex j-center">
+
+        @await Html.PartialAsync("_CategoryWithProducts", Model.Category)
+
+        <div class="divider-v h-20 bg-main"></div>
+
+        @await Html.PartialAsync("../Product/_SelectProduct", Model.Association)
+
+    </div>
+</div>

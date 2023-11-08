@@ -1,0 +1,16 @@
+@model Category
+
+<div class="container w-25 flex v j-center">
+    <h2>Products</h2>
+    <ul>
+        @foreach (Association association in Model.RelatedProducts)
+        {
+            <div class="container-mini">
+                <li>@association.Product.Name</li>
+                <form method="post" asp-action="DestroyCategoryAssociation" asp-controller="Category" asp-route-id="@Model.CategoryId" asp-route-assocId="@association.AssociationId">
+                    <input type="submit" class="button-anchor p-0 p-i-o5 p-b-o1 f-o75" value="Remove">
+                </form>
+            </div>
+        }
+    </ul>
+</div>
