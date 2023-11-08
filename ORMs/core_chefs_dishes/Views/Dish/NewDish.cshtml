@@ -1,0 +1,58 @@
+@{
+    ViewData["Title"] = "New Dish";
+}
+@model Dish
+<div class="container-navbar j-center go75">
+    <a asp-action="IndexChefs" asp-controller="Chef">Chefs</a> |
+    <a asp-action="IndexDishes" asp-controller="Dish">Dishes</a> | 
+    <a asp-action="NewChef" asp-controller="Chef">Add a Chef</a> | 
+    <p class="f-bold">Add a Dish</p>
+</div>
+<div class="view-main medium">
+<h1 class="center-h f-center">Add a dish</h1>
+<div class="divider-h bg-medium-l m-b-1o25"></div>
+    <form class="form-h" method="post" asp-action="CreateDish" asp-controller="Dish">
+        
+        <div class="container-v">
+            <label asp-for="Name" class="input">
+                <span>Name of Dish:</span>
+                <input type="text" asp-for="Name">
+            </label>
+            <span asp-validation-for="Name" class="error-text"></span>
+            <label asp-for="Calories" class="input">
+                <span>Calories:</span>
+                <input type="number" asp-for="Calories">
+            </label>
+            <span asp-validation-for="Calories" class="error-text"></span>
+        </div>
+
+        <div class="container-v">
+            <label asp-for="ChefId" class="input w-content">
+                <span>Chef:</span>
+                <select asp-for="ChefId">
+                    @foreach (Chef chef in ViewBag.AllChefs)
+                    {
+                        <option value="@chef.ChefId">@chef.FirstName @chef.LastName</option>
+                    }
+                </select>
+            </label>
+            <span asp-validation-for="ChefId" class="error-text"></span>
+        </div>
+
+        <div class="container-v">
+            <label asp-for="Tastiness" class="input w-content">
+                <span>Tastiness:</span>
+                <select asp-for="Tastiness">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </label>
+            <span asp-validation-for="Tastiness" class="error-text"></span>
+            <input type="submit" class="button w-content" value="Submit">
+        </div>
+
+    </form>
+</div>
